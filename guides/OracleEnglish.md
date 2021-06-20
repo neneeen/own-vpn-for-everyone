@@ -4,7 +4,7 @@
 
 ## Fees
 
-* Free forever, ingress traffic is free, egress traffic maximum 10 TB per month.
+* Free forever, ingress traffic is free, egress traffic maximum 10 TB per month at 50 Mbps.
 
 ## Creating Oracle Cloud account
 
