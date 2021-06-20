@@ -14,7 +14,7 @@ Free tier can't change or add region after registration. Use the nearest region 
 
 ## Setup Bitvise client
 
-Download and isntall from https://www.bitvise.com/ssh-client-download
+Download and install from https://www.bitvise.com/ssh-client-download
 
 ## Create VM
 
