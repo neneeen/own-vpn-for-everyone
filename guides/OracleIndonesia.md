@@ -26,10 +26,6 @@ Setelah masuk di console, klik Create a VM instance
 
 <br><img src="../images/oracle1.png" width="323">
 
-Di pilihan Image and Shape, klik Edit lalu Change Image, ganti ke Ubuntu 20.04 Minimal
-
-<br><img src="../images/oracle2.png" width="438">
-
 Di bagian Add SSH keys, klik Save Private Key. Buka Bitvise, klik Client key manager, Import. Ganti filetype dari Bitvise Keypair Files ke All Files, lalu pilih file yang baru didownload. Klik Import dan pastikan ada entry baru. Tutup dialog, kembali ke halaman Oracle dan klik Create. Tunggu sampai status instance berubah dari Provisioning menjadi Running. Cari field Public IP Address, klik Copy
 
 Kembali ke Bitvise, paste IP address ke Host. Ubah Username ke ubuntu, pastikan Initial Method diset ke publickey. Set Client Key ke Auto, lalu klik Login. Di dialog Host Key Verification, klik Accept and Save. Setelah koneksi sukses, klik New Terminal Console
