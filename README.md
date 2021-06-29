@@ -11,8 +11,8 @@ Tujuan koleksi ini agar semua orang, termasuk yang awam, dapat membuat sendiri V
 # Guides list
 
 * Oracle Cloud [English](./guides/OracleEnglish.md)/[Indonesia](./guides/OracleIndonesia.md)
-  * Two worldwide server (one region you pick on registration) free forever, 1 TB monthly bandwidth at 50 Mbps.
-  * Dua server global (di satu region yang dipilih saat registrasi) gratis selamanya, bandwith 1 TB sebulan 50 Mbps.
+  * Two worldwide server (one region you pick on registration) free forever, 1 TB monthly bandwidth at 500 Mbps.
+  * Dua server global (di satu region yang dipilih saat registrasi) gratis selamanya, bandwith 1 TB sebulan kecepatan 500 Mbps.
 
 * Google Compute Engine [English](./guides/GCEEnglish.md)/[Indonesia](./guides/GCEIndonesia.md)
   * Worldwide server free for 90 days, free-forever one US server with 1 GB monthly bandwidth afterwards
