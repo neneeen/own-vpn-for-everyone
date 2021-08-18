@@ -24,7 +24,9 @@ In Oracle console, click Create a VM instance
 
 <br><img src="../images/oracle1.png" width="323">
 
-In the Add SSH keys section, click Save Private Key. Open Bitvise, click Client key manager, Import. Change filetype filter from Bitvise Keypair Files to All Files, then pick the recently downloaded file. Click Import, close the dialog, return to Oracle anc click Create. Wait until instance status change from Provisioning to Running. Find Public IP Address field, click Copy
+In Image and shape section, edit and change Image to Canonical Ubuntu 20.04 Minimal.
+
+In the Add SSH keys section, click Save Private Key. Open Bitvise, click Client key manager, Import. Change filetype filter from Bitvise Keypair Files to All Files, then pick the recently downloaded file. Click Import, close the dialog, return to Oracle and click Create. Wait until instance status change from Provisioning to Running. Find Public IP Address field, click Copy
 
 Return to Bitvise, paste IP address to Host. Change Username to ubuntu, ensure Initial Method is set to publickey. Set Client Key to Auto, then click Login. In Host Key Verification dialog, click Accept and Save. After the connection is complete, click New Terminal Console
 
