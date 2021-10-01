@@ -1,3 +1,5 @@
+Untuk yang baca ini karena thread Telkom throttling, trik ini cuma berlaku sampai Telkom juga throttle Oracle Cloud. Kalau provider sekelas Cloudflare, Digital Ocean, dan Fastly bisa mereka throttle, apalagi yang level kecil seperti Oracle.
+
 ## Prasyarat
 
 * Kartu kredit/kartu debit yang mendukung transaksi online *tanpa* 3-D Secure (hampir semua kartu kredit berlogo Visa & MasterCard, kartu debit Jenius)
