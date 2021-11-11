@@ -12,7 +12,7 @@ Untuk yang baca ini karena thread Telkom throttling, trik ini cuma berlaku sampa
 
 Masuk ke https://www.oracle.com/cloud/free/ dan klik **Start for free**. Oracle akan membuat dua test charge, yang pertama sekitar 1 USD, yang kedua sekitar 10 USD beberapa hari kemudian, keduanya akan dibatalkan setelahnya. Kecuali [upgrade](https://www.oracle.com/cloud/free/faq.html), Oracle *tidak akan* menarik biaya walaupun kredit gratis 200 dollar sudah habis atau 30 hari telah lewat. VM free tier tetap akan berjalan selamanya.
 
-Free tier tidak bisa mengganti/menambah region setelah pembayaran. Untuk pengguna Indonesia gunakan region Seoul/Tokyo.
+Free tier tidak bisa mengganti/menambah region setelah pembayaran. Untuk pengguna Indonesia gunakan region Singapura.
 
 Jika menemui masalah tentang token SMS, kontak customer service chat dari situs Oracle. Setelah memasukkan informasi kartu pembayaran, proses dari Oracle bisa memakan waktu beberapa jam sebelum akun diaktifkan dan bisa membuat VM. Selama menunggu email dari Oracle yang memberikan Cloud Account name, install dulu Bitvise client
 
